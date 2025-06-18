@@ -1,2 +1,7 @@
 <Solution>
+  <Folder Name="/src/" />
+  <Folder Name="/src/RhinoAuth/">
+    <Project Path="src/RhinoAuth/RhinoAuth.Database/RhinoAuth.Database.csproj" />
+    <Project Path="src/RhinoAuth/RhinoAuth.Web/RhinoAuth.Web.fsproj" Id="e9e22372-739b-40fc-9ac4-4a416b04ca86" />
+  </Folder>
 </Solution>

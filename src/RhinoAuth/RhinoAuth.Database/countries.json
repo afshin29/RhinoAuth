@@ -1,0 +1,2276 @@
+[
+    {
+        "Name": "Afghanistan",
+        "TwoLetterCode": "AF",
+        "ThreeLetterCode": "AFG",
+        "PhoneCode": "93",
+        "LeadingPhoneCodes": null,
+        "CurrencyName": "Afghan Afghani",
+        "CurrencyCode": "AFN"
+    },
+    {
+        "Name": "Aland Islands",
+        "TwoLetterCode": "AX",
+        "ThreeLetterCode": "ALA",
+        "PhoneCode": "358",
+        "LeadingPhoneCodes": null,
+        "CurrencyName": "Euro",
+        "CurrencyCode": "EUR"
+    },
+    {
+        "Name": "Albania",
+        "TwoLetterCode": "AL",
+        "ThreeLetterCode": "ALB",
+        "PhoneCode": "355",
+        "LeadingPhoneCodes": null,
+        "CurrencyName": "Albanian Lek",
+        "CurrencyCode": "ALL"
+    },
+    {
+        "Name": "Algeria",
+        "TwoLetterCode": "DZ",
+        "ThreeLetterCode": "DZA",
+        "PhoneCode": "213",
+        "LeadingPhoneCodes": null,
+        "CurrencyName": "Algerian Dinar",
+        "CurrencyCode": "DZD"
+    },
+    {
+        "Name": "AmericanSamoa",
+        "TwoLetterCode": "AS",
+        "ThreeLetterCode": "ASM",
+        "PhoneCode": "1",
+        "LeadingPhoneCodes": [
+            "684"
+        ],
+        "CurrencyName": "US Dollar",
+        "CurrencyCode": "USD"
+    },
+    {
+        "Name": "Andorra",
+        "TwoLetterCode": "AD",
+        "ThreeLetterCode": "AND",
+        "PhoneCode": "376",
+        "LeadingPhoneCodes": null,
+        "CurrencyName": "Euro",
+        "CurrencyCode": "EUR"
+    },
+    {
+        "Name": "Angola",
+        "TwoLetterCode": "AO",
+        "ThreeLetterCode": "AGO",
+        "PhoneCode": "244",
+        "LeadingPhoneCodes": null,
+        "CurrencyName": "Angolan Kwanza",
+        "CurrencyCode": "AOA"
+    },
+    {
+        "Name": "Anguilla",
+        "TwoLetterCode": "AI",
+        "ThreeLetterCode": "AIA",
+        "PhoneCode": "1",
+        "LeadingPhoneCodes": [
+            "264"
+        ],
+        "CurrencyName": "East Caribbean Dollar",
+        "CurrencyCode": "XCD"
+    },
+    {
+        "Name": "Antarctica",
+        "TwoLetterCode": "AQ",
+        "ThreeLetterCode": "ATA",
+        "PhoneCode": "672",
+        "LeadingPhoneCodes": null,
+        "CurrencyName": "null",
+        "CurrencyCode": "null"
+    },
+    {
+        "Name": "Antigua and Barbuda",
+        "TwoLetterCode": "AG",
+        "ThreeLetterCode": "ATG",
+        "PhoneCode": "1",
+        "LeadingPhoneCodes": [
+            "268"
+        ],
+        "CurrencyName": "East Caribbean Dollar",
+        "CurrencyCode": "XCD"
+    },
+    {
+        "Name": "Argentina",
+        "TwoLetterCode": "AR",
+        "ThreeLetterCode": "ARG",
+        "PhoneCode": "54",
+        "LeadingPhoneCodes": null,
+        "CurrencyName": "Argentine Peso",
+        "CurrencyCode": "ARS"
+    },
+    {
+        "Name": "Armenia",
+        "TwoLetterCode": "AM",
+        "ThreeLetterCode": "ARM",
+        "PhoneCode": "374",
+        "LeadingPhoneCodes": null,
+        "CurrencyName": "Armenian Dram",
+        "CurrencyCode": "AMD"
+    },
+    {
+        "Name": "Aruba",
+        "TwoLetterCode": "AW",
+        "ThreeLetterCode": "ABW",
+        "PhoneCode": "297",
+        "LeadingPhoneCodes": null,
+        "CurrencyName": "null",
+        "CurrencyCode": "AWG"
+    },
+    {
+        "Name": "Australia",
+        "TwoLetterCode": "AU",
+        "ThreeLetterCode": "AUS",
+        "PhoneCode": "61",
+        "LeadingPhoneCodes": null,
+        "CurrencyName": "Australian Dollar",
+        "CurrencyCode": "AUD"
+    },
+    {
+        "Name": "Austria",
+        "TwoLetterCode": "AT",
+        "ThreeLetterCode": "AUT",
+        "PhoneCode": "43",
+        "LeadingPhoneCodes": null,
+        "CurrencyName": "Euro",
+        "CurrencyCode": "EUR"
+    },
+    {
+        "Name": "Azerbaijan",
+        "TwoLetterCode": "AZ",
+        "ThreeLetterCode": "AZE",
+        "PhoneCode": "994",
+        "LeadingPhoneCodes": null,
+        "CurrencyName": "Azerbaijani Manat",
+        "CurrencyCode": "AZN"
+    },
+    {
+        "Name": "Bahamas",
+        "TwoLetterCode": "BS",
+        "ThreeLetterCode": "BHS",
+        "PhoneCode": "1",
+        "LeadingPhoneCodes": [
+            "242"
+        ],
+        "CurrencyName": "null",
+        "CurrencyCode": "BSD"
+    },
+    {
+        "Name": "Bahrain",
+        "TwoLetterCode": "BH",
+        "ThreeLetterCode": "BHR",
+        "PhoneCode": "973",
+        "LeadingPhoneCodes": null,
+        "CurrencyName": "Bahraini Dinar",
+        "CurrencyCode": "BHD"
+    },
+    {
+        "Name": "Bangladesh",
+        "TwoLetterCode": "BD",
+        "ThreeLetterCode": "BGD",
+        "PhoneCode": "880",
+        "LeadingPhoneCodes": null,
+        "CurrencyName": "Bangladeshi Taka",
+        "CurrencyCode": "BDT"
+    },
+    {
+        "Name": "Barbados",
+        "TwoLetterCode": "BB",
+        "ThreeLetterCode": "BRB",
+        "PhoneCode": "1",
+        "LeadingPhoneCodes": [
+            "246"
+        ],
+        "CurrencyName": "null",
+        "CurrencyCode": "BBD"
+    },
+    {
+        "Name": "Belarus",
+        "TwoLetterCode": "BY",
+        "ThreeLetterCode": "BLR",
+        "PhoneCode": "375",
+        "LeadingPhoneCodes": null,
+        "CurrencyName": "Belarusian Ruble",
+        "CurrencyCode": "BYR"
+    },
+    {
+        "Name": "Belgium",
+        "TwoLetterCode": "BE",
+        "ThreeLetterCode": "BEL",
+        "PhoneCode": "32",
+        "LeadingPhoneCodes": null,
+        "CurrencyName": "Euro",
+        "CurrencyCode": "EUR"
+    },
+    {
+        "Name": "Belize",
+        "TwoLetterCode": "BZ",
+        "ThreeLetterCode": "BLZ",
+        "PhoneCode": "501",
+        "LeadingPhoneCodes": null,
+        "CurrencyName": "Belize Dollar",
+        "CurrencyCode": "BZD"
+    },
+    {
+        "Name": "Benin",
+        "TwoLetterCode": "BJ",
+        "ThreeLetterCode": "BEN",
+        "PhoneCode": "229",
+        "LeadingPhoneCodes": null,
+        "CurrencyName": "CFA Franc BCEAO",
+        "CurrencyCode": "XOF"
+    },
+    {
+        "Name": "Bermuda",
+        "TwoLetterCode": "BM",
+        "ThreeLetterCode": "BMU",
+        "PhoneCode": "1",
+        "LeadingPhoneCodes": [
+            "441"
+        ],
+        "CurrencyName": "Bermudian Dollar",
+        "CurrencyCode": "BMD"
+    },
+    {
+        "Name": "Bhutan",
+        "TwoLetterCode": "BT",
+        "ThreeLetterCode": "BTN",
+        "PhoneCode": "975",
+        "LeadingPhoneCodes": null,
+        "CurrencyName": "Bhutanese Ngultrum",
+        "CurrencyCode": "BTN"
+    },
+    {
+        "Name": "Bolivia",
+        "TwoLetterCode": "BO",
+        "ThreeLetterCode": "BOL",
+        "PhoneCode": "591",
+        "LeadingPhoneCodes": null,
+        "CurrencyName": "Bolivian Boliviano",
+        "CurrencyCode": "BOB"
+    },
+    {
+        "Name": "Bosnia and Herzegovina",
+        "TwoLetterCode": "BA",
+        "ThreeLetterCode": "BIH",
+        "PhoneCode": "387",
+        "LeadingPhoneCodes": null,
+        "CurrencyName": "Bosnia-Herzegovina Convertible Mark",
+        "CurrencyCode": "BAM"
+    },
+    {
+        "Name": "Botswana",
+        "TwoLetterCode": "BW",
+        "ThreeLetterCode": "BWA",
+        "PhoneCode": "267",
+        "LeadingPhoneCodes": null,
+        "CurrencyName": "Botswanan Pula",
+        "CurrencyCode": "BWP"
+    },
+    {
+        "Name": "Brazil",
+        "TwoLetterCode": "BR",
+        "ThreeLetterCode": "BRA",
+        "PhoneCode": "55",
+        "LeadingPhoneCodes": null,
+        "CurrencyName": "Brazilian Real",
+        "CurrencyCode": "BRL"
+    },
+    {
+        "Name": "British Indian Ocean Territory",
+        "TwoLetterCode": "IO",
+        "ThreeLetterCode": "IOT",
+        "PhoneCode": "246",
+        "LeadingPhoneCodes": null,
+        "CurrencyName": "US Dollar",
+        "CurrencyCode": "USD"
+    },
+    {
+        "Name": "Brunei Darussalam",
+        "TwoLetterCode": "BN",
+        "ThreeLetterCode": "BRN",
+        "PhoneCode": "673",
+        "LeadingPhoneCodes": null,
+        "CurrencyName": "Brunei Dollar",
+        "CurrencyCode": "BND"
+    },
+    {
+        "Name": "Bulgaria",
+        "TwoLetterCode": "BG",
+        "ThreeLetterCode": "BGR",
+        "PhoneCode": "359",
+        "LeadingPhoneCodes": null,
+        "CurrencyName": "Bulgarian Lev",
+        "CurrencyCode": "BGN"
+    },
+    {
+        "Name": "Burkina Faso",
+        "TwoLetterCode": "BF",
+        "ThreeLetterCode": "BFA",
+        "PhoneCode": "226",
+        "LeadingPhoneCodes": null,
+        "CurrencyName": "CFA Franc BCEAO",
+        "CurrencyCode": "XOF"
+    },
+    {
+        "Name": "Burundi",
+        "TwoLetterCode": "BI",
+        "ThreeLetterCode": "BDI",
+        "PhoneCode": "257",
+        "LeadingPhoneCodes": null,
+        "CurrencyName": "Burundian Franc",
+        "CurrencyCode": "BIF"
+    },
+    {
+        "Name": "Cambodia",
+        "TwoLetterCode": "KH",
+        "ThreeLetterCode": "KHM",
+        "PhoneCode": "855",
+        "LeadingPhoneCodes": null,
+        "CurrencyName": "Cambodian Riel",
+        "CurrencyCode": "KHR"
+    },
+    {
+        "Name": "Cameroon",
+        "TwoLetterCode": "CM",
+        "ThreeLetterCode": "CMR",
+        "PhoneCode": "237",
+        "LeadingPhoneCodes": null,
+        "CurrencyName": "CFA Franc BEAC",
+        "CurrencyCode": "XAF"
+    },
+    {
+        "Name": "Canada",
+        "TwoLetterCode": "CA",
+        "ThreeLetterCode": "CAN",
+        "PhoneCode": "1",
+        "LeadingPhoneCodes": [
+            "403",
+            "587",
+            "780",
+            "825",
+            "236",
+            "250",
+            "604",
+            "672",
+            "778",
+            "204",
+            "431",
+            "506",
+            "709",
+            "782",
+            "902",
+            "226",
+            "249",
+            "289",
+            "343",
+            "365",
+            "416",
+            "437",
+            "519",
+            "548",
+            "613",
+            "647",
+            "705",
+            "807",
+            "905",
+            "367",
+            "418",
+            "438",
+            "450",
+            "514",
+            "579",
+            "581",
+            "819",
+            "873",
+            "306",
+            "639",
+            "867"
+        ],
+        "CurrencyName": "Canadian Dollar",
+        "CurrencyCode": "CAD"
+    },
+    {
+        "Name": "Cape Verde",
+        "TwoLetterCode": "CV",
+        "ThreeLetterCode": "CPV",
+        "PhoneCode": "238",
+        "LeadingPhoneCodes": null,
+        "CurrencyName": "Cape Verdean Escudo",
+        "CurrencyCode": "CVE"
+    },
+    {
+        "Name": "Cayman Islands",
+        "TwoLetterCode": "KY",
+        "ThreeLetterCode": "CYM",
+        "PhoneCode": "1",
+        "LeadingPhoneCodes": [
+            "345"
+        ],
+        "CurrencyName": "Caymanian Dollar",
+        "CurrencyCode": "KYD"
+    },
+    {
+        "Name": "Central African Republic",
+        "TwoLetterCode": "CF",
+        "ThreeLetterCode": "CAF",
+        "PhoneCode": "236",
+        "LeadingPhoneCodes": null,
+        "CurrencyName": "CFA Franc BEAC",
+        "CurrencyCode": "XAF"
+    },
+    {
+        "Name": "Chad",
+        "TwoLetterCode": "TD",
+        "ThreeLetterCode": "TCD",
+        "PhoneCode": "235",
+        "LeadingPhoneCodes": null,
+        "CurrencyName": "CFA Franc BEAC",
+        "CurrencyCode": "XAF"
+    },
+    {
+        "Name": "Chile",
+        "TwoLetterCode": "CL",
+        "ThreeLetterCode": "CHL",
+        "PhoneCode": "56",
+        "LeadingPhoneCodes": null,
+        "CurrencyName": "Chilean Peso",
+        "CurrencyCode": "CLP"
+    },
+    {
+        "Name": "China",
+        "TwoLetterCode": "CN",
+        "ThreeLetterCode": "CHN",
+        "PhoneCode": "86",
+        "LeadingPhoneCodes": null,
+        "CurrencyName": "Chinese Yuan",
+        "CurrencyCode": "CNY"
+    },
+    {
+        "Name": "Christmas Island",
+        "TwoLetterCode": "CX",
+        "ThreeLetterCode": "CXR",
+        "PhoneCode": "61",
+        "LeadingPhoneCodes": null,
+        "CurrencyName": "Australian Dollar",
+        "CurrencyCode": "AUD"
+    },
+    {
+        "Name": "Cocos (Keeling) Islands",
+        "TwoLetterCode": "CC",
+        "ThreeLetterCode": "CCK",
+        "PhoneCode": "61",
+        "LeadingPhoneCodes": null,
+        "CurrencyName": "Australian Dollar",
+        "CurrencyCode": "AUD"
+    },
+    {
+        "Name": "Colombia",
+        "TwoLetterCode": "CO",
+        "ThreeLetterCode": "COL",
+        "PhoneCode": "57",
+        "LeadingPhoneCodes": null,
+        "CurrencyName": "Colombian Peso",
+        "CurrencyCode": "COP"
+    },
+    {
+        "Name": "Comoros",
+        "TwoLetterCode": "KM",
+        "ThreeLetterCode": "COM",
+        "PhoneCode": "269",
+        "LeadingPhoneCodes": null,
+        "CurrencyName": "Comorian Franc",
+        "CurrencyCode": "KMF"
+    },
+    {
+        "Name": "Congo",
+        "TwoLetterCode": "CG",
+        "ThreeLetterCode": "COG",
+        "PhoneCode": "242",
+        "LeadingPhoneCodes": null,
+        "CurrencyName": "CFA Franc BEAC",
+        "CurrencyCode": "XAF"
+    },
+    {
+        "Name": "Democratic Congo",
+        "TwoLetterCode": "CD",
+        "ThreeLetterCode": "COD",
+        "PhoneCode": "243",
+        "LeadingPhoneCodes": null,
+        "CurrencyName": "Congolese Franc",
+        "CurrencyCode": "CDF"
+    },
+    {
+        "Name": "Cook Islands",
+        "TwoLetterCode": "CK",
+        "ThreeLetterCode": "COK",
+        "PhoneCode": "682",
+        "LeadingPhoneCodes": null,
+        "CurrencyName": "New Zealand Dollar",
+        "CurrencyCode": "NZD"
+    },
+    {
+        "Name": "Costa Rica",
+        "TwoLetterCode": "CR",
+        "ThreeLetterCode": "CRI",
+        "PhoneCode": "506",
+        "LeadingPhoneCodes": null,
+        "CurrencyName": "Costa Rican Col\u00F3n",
+        "CurrencyCode": "CRC"
+    },
+    {
+        "Name": "Cote d\u0027Ivoire",
+        "TwoLetterCode": "CI",
+        "ThreeLetterCode": "CIV",
+        "PhoneCode": "225",
+        "LeadingPhoneCodes": null,
+        "CurrencyName": "CFA Franc BCEAO",
+        "CurrencyCode": "XOF"
+    },
+    {
+        "Name": "Croatia",
+        "TwoLetterCode": "HR",
+        "ThreeLetterCode": "HRV",
+        "PhoneCode": "385",
+        "LeadingPhoneCodes": null,
+        "CurrencyName": "Croatian Kuna",
+        "CurrencyCode": "HRK"
+    },
+    {
+        "Name": "Cuba",
+        "TwoLetterCode": "CU",
+        "ThreeLetterCode": "CUB",
+        "PhoneCode": "53",
+        "LeadingPhoneCodes": null,
+        "CurrencyName": "null",
+        "CurrencyCode": "CUP"
+    },
+    {
+        "Name": "Cyprus",
+        "TwoLetterCode": "CY",
+        "ThreeLetterCode": "CYP",
+        "PhoneCode": "357",
+        "LeadingPhoneCodes": null,
+        "CurrencyName": "Euro",
+        "CurrencyCode": "EUR"
+    },
+    {
+        "Name": "Czech Republic",
+        "TwoLetterCode": "CZ",
+        "ThreeLetterCode": "CZE",
+        "PhoneCode": "420",
+        "LeadingPhoneCodes": null,
+        "CurrencyName": "Czech Republic Koruna",
+        "CurrencyCode": "CZK"
+    },
+    {
+        "Name": "Denmark",
+        "TwoLetterCode": "DK",
+        "ThreeLetterCode": "DNK",
+        "PhoneCode": "45",
+        "LeadingPhoneCodes": null,
+        "CurrencyName": "Danish Krone",
+        "CurrencyCode": "DKK"
+    },
+    {
+        "Name": "Djibouti",
+        "TwoLetterCode": "DJ",
+        "ThreeLetterCode": "DJI",
+        "PhoneCode": "253",
+        "LeadingPhoneCodes": null,
+        "CurrencyName": "Djiboutian Franc",
+        "CurrencyCode": "DJF"
+    },
+    {
+        "Name": "Dominica",
+        "TwoLetterCode": "DM",
+        "ThreeLetterCode": "DMA",
+        "PhoneCode": "1",
+        "LeadingPhoneCodes": [
+            "767"
+        ],
+        "CurrencyName": "East Caribbean Dollar",
+        "CurrencyCode": "XCD"
+    },
+    {
+        "Name": "Dominican Republic",
+        "TwoLetterCode": "DO",
+        "ThreeLetterCode": "DOM",
+        "PhoneCode": "1",
+        "LeadingPhoneCodes": [
+            "809",
+            "829",
+            "849"
+        ],
+        "CurrencyName": "Dominican Peso",
+        "CurrencyCode": "DOP"
+    },
+    {
+        "Name": "Ecuador",
+        "TwoLetterCode": "EC",
+        "ThreeLetterCode": "ECU",
+        "PhoneCode": "593",
+        "LeadingPhoneCodes": null,
+        "CurrencyName": "US Dollar",
+        "CurrencyCode": "USD"
+    },
+    {
+        "Name": "Egypt",
+        "TwoLetterCode": "EG",
+        "ThreeLetterCode": "EGY",
+        "PhoneCode": "20",
+        "LeadingPhoneCodes": null,
+        "CurrencyName": "Egyptian Pound",
+        "CurrencyCode": "EGP"
+    },
+    {
+        "Name": "El Salvador",
+        "TwoLetterCode": "SV",
+        "ThreeLetterCode": "SLV",
+        "PhoneCode": "503",
+        "LeadingPhoneCodes": null,
+        "CurrencyName": "US Dollar",
+        "CurrencyCode": "USD"
+    },
+    {
+        "Name": "Equatorial Guinea",
+        "TwoLetterCode": "GQ",
+        "ThreeLetterCode": "GNQ",
+        "PhoneCode": "240",
+        "LeadingPhoneCodes": null,
+        "CurrencyName": "CFA Franc BEAC",
+        "CurrencyCode": "XAF"
+    },
+    {
+        "Name": "Eritrea",
+        "TwoLetterCode": "ER",
+        "ThreeLetterCode": "ERI",
+        "PhoneCode": "291",
+        "LeadingPhoneCodes": null,
+        "CurrencyName": "Eritrean Nakfa",
+        "CurrencyCode": "ERN"
+    },
+    {
+        "Name": "Estonia",
+        "TwoLetterCode": "EE",
+        "ThreeLetterCode": "EST",
+        "PhoneCode": "372",
+        "LeadingPhoneCodes": null,
+        "CurrencyName": "Euro",
+        "CurrencyCode": "EUR"
+    },
+    {
+        "Name": "Ethiopia",
+        "TwoLetterCode": "ET",
+        "ThreeLetterCode": "ETH",
+        "PhoneCode": "251",
+        "LeadingPhoneCodes": null,
+        "CurrencyName": "Ethiopian Birr",
+        "CurrencyCode": "ETB"
+    },
+    {
+        "Name": "Falkland Islands (Malvinas)",
+        "TwoLetterCode": "FK",
+        "ThreeLetterCode": "FLK",
+        "PhoneCode": "500",
+        "LeadingPhoneCodes": null,
+        "CurrencyName": "Falkland Island Pound",
+        "CurrencyCode": "FKP"
+    },
+    {
+        "Name": "Faroe Islands",
+        "TwoLetterCode": "FO",
+        "ThreeLetterCode": "FRO",
+        "PhoneCode": "298",
+        "LeadingPhoneCodes": null,
+        "CurrencyName": "Danish Krone",
+        "CurrencyCode": "DKK"
+    },
+    {
+        "Name": "Fiji",
+        "TwoLetterCode": "FJ",
+        "ThreeLetterCode": "FJI",
+        "PhoneCode": "679",
+        "LeadingPhoneCodes": null,
+        "CurrencyName": "null",
+        "CurrencyCode": "FJD"
+    },
+    {
+        "Name": "Finland",
+        "TwoLetterCode": "FI",
+        "ThreeLetterCode": "FIN",
+        "PhoneCode": "358",
+        "LeadingPhoneCodes": null,
+        "CurrencyName": "Euro",
+        "CurrencyCode": "EUR"
+    },
+    {
+        "Name": "France",
+        "TwoLetterCode": "FR",
+        "ThreeLetterCode": "FRA",
+        "PhoneCode": "33",
+        "LeadingPhoneCodes": null,
+        "CurrencyName": "Euro",
+        "CurrencyCode": "EUR"
+    },
+    {
+        "Name": "French Guiana",
+        "TwoLetterCode": "GF",
+        "ThreeLetterCode": "GUF",
+        "PhoneCode": "594",
+        "LeadingPhoneCodes": null,
+        "CurrencyName": "Euro",
+        "CurrencyCode": "EUR"
+    },
+    {
+        "Name": "French Polynesia",
+        "TwoLetterCode": "PF",
+        "ThreeLetterCode": "PYF",
+        "PhoneCode": "689",
+        "LeadingPhoneCodes": null,
+        "CurrencyName": "CFP Franc",
+        "CurrencyCode": "XPF"
+    },
+    {
+        "Name": "Gabon",
+        "TwoLetterCode": "GA",
+        "ThreeLetterCode": "GAB",
+        "PhoneCode": "241",
+        "LeadingPhoneCodes": null,
+        "CurrencyName": "CFA Franc BEAC",
+        "CurrencyCode": "XAF"
+    },
+    {
+        "Name": "Gambia",
+        "TwoLetterCode": "GM",
+        "ThreeLetterCode": "GMB",
+        "PhoneCode": "220",
+        "LeadingPhoneCodes": null,
+        "CurrencyName": "null",
+        "CurrencyCode": "GMD"
+    },
+    {
+        "Name": "Georgia",
+        "TwoLetterCode": "GE",
+        "ThreeLetterCode": "GEO",
+        "PhoneCode": "995",
+        "LeadingPhoneCodes": null,
+        "CurrencyName": "Georgian Lari",
+        "CurrencyCode": "GEL"
+    },
+    {
+        "Name": "Germany",
+        "TwoLetterCode": "DE",
+        "ThreeLetterCode": "DEU",
+        "PhoneCode": "49",
+        "LeadingPhoneCodes": null,
+        "CurrencyName": "Euro",
+        "CurrencyCode": "EUR"
+    },
+    {
+        "Name": "Ghana",
+        "TwoLetterCode": "GH",
+        "ThreeLetterCode": "GHA",
+        "PhoneCode": "233",
+        "LeadingPhoneCodes": null,
+        "CurrencyName": "Ghanaian Cedi",
+        "CurrencyCode": "GHS"
+    },
+    {
+        "Name": "Gibraltar",
+        "TwoLetterCode": "GI",
+        "ThreeLetterCode": "GIB",
+        "PhoneCode": "350",
+        "LeadingPhoneCodes": null,
+        "CurrencyName": "Gibraltar Pound",
+        "CurrencyCode": "GIP"
+    },
+    {
+        "Name": "Greece",
+        "TwoLetterCode": "GR",
+        "ThreeLetterCode": "GRC",
+        "PhoneCode": "30",
+        "LeadingPhoneCodes": null,
+        "CurrencyName": "Euro",
+        "CurrencyCode": "EUR"
+    },
+    {
+        "Name": "Greenland",
+        "TwoLetterCode": "GL",
+        "ThreeLetterCode": "GRL",
+        "PhoneCode": "299",
+        "LeadingPhoneCodes": null,
+        "CurrencyName": "Danish Krone",
+        "CurrencyCode": "DKK"
+    },
+    {
+        "Name": "Grenada",
+        "TwoLetterCode": "GD",
+        "ThreeLetterCode": "GRD",
+        "PhoneCode": "1",
+        "LeadingPhoneCodes": [
+            "473"
+        ],
+        "CurrencyName": "East Caribbean Dollar",
+        "CurrencyCode": "XCD"
+    },
+    {
+        "Name": "Guadeloupe",
+        "TwoLetterCode": "GP",
+        "ThreeLetterCode": "GLP",
+        "PhoneCode": "590",
+        "LeadingPhoneCodes": null,
+        "CurrencyName": "Euro",
+        "CurrencyCode": "EUR"
+    },
+    {
+        "Name": "Guam",
+        "TwoLetterCode": "GU",
+        "ThreeLetterCode": "GUM",
+        "PhoneCode": "1",
+        "LeadingPhoneCodes": [
+            "671"
+        ],
+        "CurrencyName": "US Dollar",
+        "CurrencyCode": "USD"
+    },
+    {
+        "Name": "Guatemala",
+        "TwoLetterCode": "GT",
+        "ThreeLetterCode": "GTM",
+        "PhoneCode": "502",
+        "LeadingPhoneCodes": null,
+        "CurrencyName": "Guatemalan Quetzal",
+        "CurrencyCode": "GTQ"
+    },
+    {
+        "Name": "Guernsey",
+        "TwoLetterCode": "GG",
+        "ThreeLetterCode": "GGY",
+        "PhoneCode": "44",
+        "LeadingPhoneCodes": [
+            "1481"
+        ],
+        "CurrencyName": "British Pound Sterling",
+        "CurrencyCode": "GBP"
+    },
+    {
+        "Name": "Guinea",
+        "TwoLetterCode": "GN",
+        "ThreeLetterCode": "GIN",
+        "PhoneCode": "224",
+        "LeadingPhoneCodes": null,
+        "CurrencyName": "Guinean Franc",
+        "CurrencyCode": "GNF"
+    },
+    {
+        "Name": "Guinea-Bissau",
+        "TwoLetterCode": "GW",
+        "ThreeLetterCode": "GNB",
+        "PhoneCode": "245",
+        "LeadingPhoneCodes": null,
+        "CurrencyName": "CFA Franc BCEAO",
+        "CurrencyCode": "XOF"
+    },
+    {
+        "Name": "Guyana",
+        "TwoLetterCode": "GY",
+        "ThreeLetterCode": "GUY",
+        "PhoneCode": "595",
+        "LeadingPhoneCodes": null,
+        "CurrencyName": "null",
+        "CurrencyCode": "GYD"
+    },
+    {
+        "Name": "Haiti",
+        "TwoLetterCode": "HT",
+        "ThreeLetterCode": "HTI",
+        "PhoneCode": "509",
+        "LeadingPhoneCodes": null,
+        "CurrencyName": "null",
+        "CurrencyCode": "HTG"
+    },
+    {
+        "Name": "Holy See (Vatican City State)",
+        "TwoLetterCode": "VA",
+        "ThreeLetterCode": "VAT",
+        "PhoneCode": "379",
+        "LeadingPhoneCodes": null,
+        "CurrencyName": "Euro",
+        "CurrencyCode": "EUR"
+    },
+    {
+        "Name": "Honduras",
+        "TwoLetterCode": "HN",
+        "ThreeLetterCode": "HND",
+        "PhoneCode": "504",
+        "LeadingPhoneCodes": null,
+        "CurrencyName": "Honduran Lempira",
+        "CurrencyCode": "HNL"
+    },
+    {
+        "Name": "Hong Kong",
+        "TwoLetterCode": "HK",
+        "ThreeLetterCode": "HKG",
+        "PhoneCode": "852",
+        "LeadingPhoneCodes": null,
+        "CurrencyName": "Hong Kong Dollar",
+        "CurrencyCode": "HKD"
+    },
+    {
+        "Name": "Hungary",
+        "TwoLetterCode": "HU",
+        "ThreeLetterCode": "HUN",
+        "PhoneCode": "36",
+        "LeadingPhoneCodes": null,
+        "CurrencyName": "Hungarian Forint",
+        "CurrencyCode": "HUF"
+    },
+    {
+        "Name": "Iceland",
+        "TwoLetterCode": "IS",
+        "ThreeLetterCode": "ISL",
+        "PhoneCode": "354",
+        "LeadingPhoneCodes": null,
+        "CurrencyName": "Icelandic Kr\u00F3na",
+        "CurrencyCode": "ISK"
+    },
+    {
+        "Name": "India",
+        "TwoLetterCode": "IN",
+        "ThreeLetterCode": "IND",
+        "PhoneCode": "91",
+        "LeadingPhoneCodes": null,
+        "CurrencyName": "Indian Rupee",
+        "CurrencyCode": "INR"
+    },
+    {
+        "Name": "Indonesia",
+        "TwoLetterCode": "ID",
+        "ThreeLetterCode": "IDN",
+        "PhoneCode": "62",
+        "LeadingPhoneCodes": null,
+        "CurrencyName": "Indonesian Rupiah",
+        "CurrencyCode": "IDR"
+    },
+    {
+        "Name": "Iran",
+        "TwoLetterCode": "IR",
+        "ThreeLetterCode": "IRN",
+        "PhoneCode": "98",
+        "LeadingPhoneCodes": null,
+        "CurrencyName": "Iranian Rial",
+        "CurrencyCode": "IRR"
+    },
+    {
+        "Name": "Iraq",
+        "TwoLetterCode": "IQ",
+        "ThreeLetterCode": "IRQ",
+        "PhoneCode": "964",
+        "LeadingPhoneCodes": null,
+        "CurrencyName": "Iraqi Dinar",
+        "CurrencyCode": "IQD"
+    },
+    {
+        "Name": "Ireland",
+        "TwoLetterCode": "IE",
+        "ThreeLetterCode": "IRL",
+        "PhoneCode": "353",
+        "LeadingPhoneCodes": null,
+        "CurrencyName": "Euro",
+        "CurrencyCode": "EUR"
+    },
+    {
+        "Name": "Isle of Man",
+        "TwoLetterCode": "IM",
+        "ThreeLetterCode": "IMN",
+        "PhoneCode": "44",
+        "LeadingPhoneCodes": [
+            "1624"
+        ],
+        "CurrencyName": "British Pound Sterling",
+        "CurrencyCode": "GBP"
+    },
+    {
+        "Name": "Israel",
+        "TwoLetterCode": "IL",
+        "ThreeLetterCode": "ISR",
+        "PhoneCode": "972",
+        "LeadingPhoneCodes": null,
+        "CurrencyName": "Israeli New Sheqel",
+        "CurrencyCode": "ILS"
+    },
+    {
+        "Name": "Italy",
+        "TwoLetterCode": "IT",
+        "ThreeLetterCode": "ITA",
+        "PhoneCode": "39",
+        "LeadingPhoneCodes": null,
+        "CurrencyName": "Euro",
+        "CurrencyCode": "EUR"
+    },
+    {
+        "Name": "Jamaica",
+        "TwoLetterCode": "JM",
+        "ThreeLetterCode": "JAM",
+        "PhoneCode": "1",
+        "LeadingPhoneCodes": [
+            "658",
+            "876"
+        ],
+        "CurrencyName": "Jamaican Dollar",
+        "CurrencyCode": "JMD"
+    },
+    {
+        "Name": "Japan",
+        "TwoLetterCode": "JP",
+        "ThreeLetterCode": "JPN",
+        "PhoneCode": "81",
+        "LeadingPhoneCodes": null,
+        "CurrencyName": "Japanese Yen",
+        "CurrencyCode": "JPY"
+    },
+    {
+        "Name": "Jersey",
+        "TwoLetterCode": "JE",
+        "ThreeLetterCode": "JEY",
+        "PhoneCode": "44",
+        "LeadingPhoneCodes": [
+            "1534"
+        ],
+        "CurrencyName": "British Pound Sterling",
+        "CurrencyCode": "GBP"
+    },
+    {
+        "Name": "Jordan",
+        "TwoLetterCode": "JO",
+        "ThreeLetterCode": "JOR",
+        "PhoneCode": "962",
+        "LeadingPhoneCodes": null,
+        "CurrencyName": "Jordanian Dinar",
+        "CurrencyCode": "JOD"
+    },
+    {
+        "Name": "Kazakhstan",
+        "TwoLetterCode": "KZ",
+        "ThreeLetterCode": "KAZ",
+        "PhoneCode": "77",
+        "LeadingPhoneCodes": null,
+        "CurrencyName": "Kazakhstani Tenge",
+        "CurrencyCode": "KZT"
+    },
+    {
+        "Name": "Kenya",
+        "TwoLetterCode": "KE",
+        "ThreeLetterCode": "KEN",
+        "PhoneCode": "254",
+        "LeadingPhoneCodes": null,
+        "CurrencyName": "Kenyan Shilling",
+        "CurrencyCode": "KES"
+    },
+    {
+        "Name": "Kiribati",
+        "TwoLetterCode": "KI",
+        "ThreeLetterCode": "KIR",
+        "PhoneCode": "686",
+        "LeadingPhoneCodes": null,
+        "CurrencyName": "Australian Dollar",
+        "CurrencyCode": "AUD"
+    },
+    {
+        "Name": "Korea",
+        "TwoLetterCode": "KR",
+        "ThreeLetterCode": "KOR",
+        "PhoneCode": "82",
+        "LeadingPhoneCodes": null,
+        "CurrencyName": "South Korean Won",
+        "CurrencyCode": "KRW"
+    },
+    {
+        "Name": "Kuwait",
+        "TwoLetterCode": "KW",
+        "ThreeLetterCode": "KWT",
+        "PhoneCode": "965",
+        "LeadingPhoneCodes": null,
+        "CurrencyName": "Kuwaiti Dinar",
+        "CurrencyCode": "KWD"
+    },
+    {
+        "Name": "Kyrgyzstan",
+        "TwoLetterCode": "KG",
+        "ThreeLetterCode": "KGZ",
+        "PhoneCode": "996",
+        "LeadingPhoneCodes": null,
+        "CurrencyName": "Kyrgyzstani Som",
+        "CurrencyCode": "KGS"
+    },
+    {
+        "Name": "Laos",
+        "TwoLetterCode": "LA",
+        "ThreeLetterCode": "LAO",
+        "PhoneCode": "856",
+        "LeadingPhoneCodes": null,
+        "CurrencyName": "null",
+        "CurrencyCode": "LAK"
+    },
+    {
+        "Name": "Latvia",
+        "TwoLetterCode": "LV",
+        "ThreeLetterCode": "LVA",
+        "PhoneCode": "371",
+        "LeadingPhoneCodes": null,
+        "CurrencyName": "Euro",
+        "CurrencyCode": "EUR"
+    },
+    {
+        "Name": "Lebanon",
+        "TwoLetterCode": "LB",
+        "ThreeLetterCode": "LBN",
+        "PhoneCode": "961",
+        "LeadingPhoneCodes": null,
+        "CurrencyName": "Lebanese Pound",
+        "CurrencyCode": "LBP"
+    },
+    {
+        "Name": "Lesotho",
+        "TwoLetterCode": "LS",
+        "ThreeLetterCode": "LSO",
+        "PhoneCode": "266",
+        "LeadingPhoneCodes": null,
+        "CurrencyName": "null",
+        "CurrencyCode": "LSL"
+    },
+    {
+        "Name": "Liberia",
+        "TwoLetterCode": "LR",
+        "ThreeLetterCode": "LBR",
+        "PhoneCode": "231",
+        "LeadingPhoneCodes": null,
+        "CurrencyName": "Liberian Dollar",
+        "CurrencyCode": "LRD"
+    },
+    {
+        "Name": "Libyan Arab Jamahiriya",
+        "TwoLetterCode": "LY",
+        "ThreeLetterCode": "LBY",
+        "PhoneCode": "218",
+        "LeadingPhoneCodes": null,
+        "CurrencyName": "Libyan Dinar",
+        "CurrencyCode": "LYD"
+    },
+    {
+        "Name": "Liechtenstein",
+        "TwoLetterCode": "LI",
+        "ThreeLetterCode": "LIE",
+        "PhoneCode": "423",
+        "LeadingPhoneCodes": null,
+        "CurrencyName": "Swiss Franc",
+        "CurrencyCode": "CHF"
+    },
+    {
+        "Name": "Lithuania",
+        "TwoLetterCode": "LT",
+        "ThreeLetterCode": "LTU",
+        "PhoneCode": "370",
+        "LeadingPhoneCodes": null,
+        "CurrencyName": "Euro",
+        "CurrencyCode": "EUR"
+    },
+    {
+        "Name": "Luxembourg",
+        "TwoLetterCode": "LU",
+        "ThreeLetterCode": "LUX",
+        "PhoneCode": "352",
+        "LeadingPhoneCodes": null,
+        "CurrencyName": "Euro",
+        "CurrencyCode": "EUR"
+    },
+    {
+        "Name": "Macao",
+        "TwoLetterCode": "MO",
+        "ThreeLetterCode": "MAC",
+        "PhoneCode": "853",
+        "LeadingPhoneCodes": null,
+        "CurrencyName": "Macanese Pataca",
+        "CurrencyCode": "MOP"
+    },
+    {
+        "Name": "Macedonia",
+        "TwoLetterCode": "MK",
+        "ThreeLetterCode": "MKD",
+        "PhoneCode": "389",
+        "LeadingPhoneCodes": null,
+        "CurrencyName": "Macedonian Denar",
+        "CurrencyCode": "MKD"
+    },
+    {
+        "Name": "Madagascar",
+        "TwoLetterCode": "MG",
+        "ThreeLetterCode": "MDG",
+        "PhoneCode": "261",
+        "LeadingPhoneCodes": null,
+        "CurrencyName": "Malagasy Ariary",
+        "CurrencyCode": "MGA"
+    },
+    {
+        "Name": "Malawi",
+        "TwoLetterCode": "MW",
+        "ThreeLetterCode": "MWI",
+        "PhoneCode": "265",
+        "LeadingPhoneCodes": null,
+        "CurrencyName": "Malawian Kwacha",
+        "CurrencyCode": "MWK"
+    },
+    {
+        "Name": "Malaysia",
+        "TwoLetterCode": "MY",
+        "ThreeLetterCode": "MYS",
+        "PhoneCode": "60",
+        "LeadingPhoneCodes": null,
+        "CurrencyName": "Malaysian Ringgit",
+        "CurrencyCode": "MYR"
+    },
+    {
+        "Name": "Maldives",
+        "TwoLetterCode": "MV",
+        "ThreeLetterCode": "MDV",
+        "PhoneCode": "960",
+        "LeadingPhoneCodes": null,
+        "CurrencyName": "null",
+        "CurrencyCode": "MVR"
+    },
+    {
+        "Name": "Mali",
+        "TwoLetterCode": "ML",
+        "ThreeLetterCode": "MLI",
+        "PhoneCode": "223",
+        "LeadingPhoneCodes": null,
+        "CurrencyName": "CFA Franc BCEAO",
+        "CurrencyCode": "XOF"
+    },
+    {
+        "Name": "Malta",
+        "TwoLetterCode": "MT",
+        "ThreeLetterCode": "MLT",
+        "PhoneCode": "356",
+        "LeadingPhoneCodes": null,
+        "CurrencyName": "Euro",
+        "CurrencyCode": "EUR"
+    },
+    {
+        "Name": "Marshall Islands",
+        "TwoLetterCode": "MH",
+        "ThreeLetterCode": "MHL",
+        "PhoneCode": "692",
+        "LeadingPhoneCodes": null,
+        "CurrencyName": "US Dollar",
+        "CurrencyCode": "USD"
+    },
+    {
+        "Name": "Martinique",
+        "TwoLetterCode": "MQ",
+        "ThreeLetterCode": "MTQ",
+        "PhoneCode": "596",
+        "LeadingPhoneCodes": null,
+        "CurrencyName": "Euro",
+        "CurrencyCode": "EUR"
+    },
+    {
+        "Name": "Mauritania",
+        "TwoLetterCode": "MR",
+        "ThreeLetterCode": "MRT",
+        "PhoneCode": "222",
+        "LeadingPhoneCodes": null,
+        "CurrencyName": "null",
+        "CurrencyCode": "MRO"
+    },
+    {
+        "Name": "Mauritius",
+        "TwoLetterCode": "MU",
+        "ThreeLetterCode": "MUS",
+        "PhoneCode": "230",
+        "LeadingPhoneCodes": null,
+        "CurrencyName": "Mauritian Rupee",
+        "CurrencyCode": "MUR"
+    },
+    {
+        "Name": "Mayotte",
+        "TwoLetterCode": "YT",
+        "ThreeLetterCode": "MYT",
+        "PhoneCode": "262",
+        "LeadingPhoneCodes": null,
+        "CurrencyName": "Euro",
+        "CurrencyCode": "EUR"
+    },
+    {
+        "Name": "Mexico",
+        "TwoLetterCode": "MX",
+        "ThreeLetterCode": "MEX",
+        "PhoneCode": "52",
+        "LeadingPhoneCodes": null,
+        "CurrencyName": "Mexican Peso",
+        "CurrencyCode": "MXN"
+    },
+    {
+        "Name": "Micronesia",
+        "TwoLetterCode": "FM",
+        "ThreeLetterCode": "FSM",
+        "PhoneCode": "691",
+        "LeadingPhoneCodes": null,
+        "CurrencyName": "US Dollar",
+        "CurrencyCode": "USD"
+    },
+    {
+        "Name": "Moldova",
+        "TwoLetterCode": "MD",
+        "ThreeLetterCode": "MDA",
+        "PhoneCode": "373",
+        "LeadingPhoneCodes": null,
+        "CurrencyName": "Moldovan Leu",
+        "CurrencyCode": "MDL"
+    },
+    {
+        "Name": "Monaco",
+        "TwoLetterCode": "MC",
+        "ThreeLetterCode": "MCO",
+        "PhoneCode": "377",
+        "LeadingPhoneCodes": null,
+        "CurrencyName": "Euro",
+        "CurrencyCode": "EUR"
+    },
+    {
+        "Name": "Mongolia",
+        "TwoLetterCode": "MN",
+        "ThreeLetterCode": "MNG",
+        "PhoneCode": "976",
+        "LeadingPhoneCodes": null,
+        "CurrencyName": "null",
+        "CurrencyCode": "MNT"
+    },
+    {
+        "Name": "Montenegro",
+        "TwoLetterCode": "ME",
+        "ThreeLetterCode": "MNE",
+        "PhoneCode": "382",
+        "LeadingPhoneCodes": null,
+        "CurrencyName": "Euro",
+        "CurrencyCode": "EUR"
+    },
+    {
+        "Name": "Montserrat",
+        "TwoLetterCode": "MS",
+        "ThreeLetterCode": "MSR",
+        "PhoneCode": "1",
+        "LeadingPhoneCodes": [
+            "664"
+        ],
+        "CurrencyName": "East Caribbean Dollar",
+        "CurrencyCode": "XCD"
+    },
+    {
+        "Name": "Morocco",
+        "TwoLetterCode": "MA",
+        "ThreeLetterCode": "MAR",
+        "PhoneCode": "212",
+        "LeadingPhoneCodes": null,
+        "CurrencyName": "Moroccan Dirham",
+        "CurrencyCode": "MAD"
+    },
+    {
+        "Name": "Mozambique",
+        "TwoLetterCode": "MZ",
+        "ThreeLetterCode": "MOZ",
+        "PhoneCode": "258",
+        "LeadingPhoneCodes": null,
+        "CurrencyName": "Mozambican Metical",
+        "CurrencyCode": "MZN"
+    },
+    {
+        "Name": "Myanmar",
+        "TwoLetterCode": "MM",
+        "ThreeLetterCode": "MMR",
+        "PhoneCode": "95",
+        "LeadingPhoneCodes": null,
+        "CurrencyName": "Myanma Kyat",
+        "CurrencyCode": "MMK"
+    },
+    {
+        "Name": "Namibia",
+        "TwoLetterCode": "NA",
+        "ThreeLetterCode": "NAM",
+        "PhoneCode": "264",
+        "LeadingPhoneCodes": null,
+        "CurrencyName": "Namibian Dollar",
+        "CurrencyCode": "NAD"
+    },
+    {
+        "Name": "Nauru",
+        "TwoLetterCode": "NR",
+        "ThreeLetterCode": "NRU",
+        "PhoneCode": "674",
+        "LeadingPhoneCodes": null,
+        "CurrencyName": "Australian Dollar",
+        "CurrencyCode": "AUD"
+    },
+    {
+        "Name": "Nepal",
+        "TwoLetterCode": "NP",
+        "ThreeLetterCode": "NPL",
+        "PhoneCode": "977",
+        "LeadingPhoneCodes": null,
+        "CurrencyName": "Nepalese Rupee",
+        "CurrencyCode": "NPR"
+    },
+    {
+        "Name": "Netherlands",
+        "TwoLetterCode": "NL",
+        "ThreeLetterCode": "NLD",
+        "PhoneCode": "31",
+        "LeadingPhoneCodes": null,
+        "CurrencyName": "Euro",
+        "CurrencyCode": "EUR"
+    },
+    {
+        "Name": "Netherlands Antilles",
+        "TwoLetterCode": "AN",
+        "ThreeLetterCode": "ANT",
+        "PhoneCode": "599",
+        "LeadingPhoneCodes": null,
+        "CurrencyName": "Netherlands Antillean Guilder",
+        "CurrencyCode": "ANG"
+    },
+    {
+        "Name": "New Caledonia",
+        "TwoLetterCode": "NC",
+        "ThreeLetterCode": "NCL",
+        "PhoneCode": "687",
+        "LeadingPhoneCodes": null,
+        "CurrencyName": "CFP Franc",
+        "CurrencyCode": "XPF"
+    },
+    {
+        "Name": "New Zealand",
+        "TwoLetterCode": "NZ",
+        "ThreeLetterCode": "NZL",
+        "PhoneCode": "64",
+        "LeadingPhoneCodes": null,
+        "CurrencyName": "New Zealand Dollar",
+        "CurrencyCode": "NZD"
+    },
+    {
+        "Name": "Nicaragua",
+        "TwoLetterCode": "NI",
+        "ThreeLetterCode": "NIC",
+        "PhoneCode": "505",
+        "LeadingPhoneCodes": null,
+        "CurrencyName": "Nicaraguan C\u00F3rdoba",
+        "CurrencyCode": "NIO"
+    },
+    {
+        "Name": "Niger",
+        "TwoLetterCode": "NE",
+        "ThreeLetterCode": "NER",
+        "PhoneCode": "227",
+        "LeadingPhoneCodes": null,
+        "CurrencyName": "CFA Franc BCEAO",
+        "CurrencyCode": "XOF"
+    },
+    {
+        "Name": "Nigeria",
+        "TwoLetterCode": "NG",
+        "ThreeLetterCode": "NGA",
+        "PhoneCode": "234",
+        "LeadingPhoneCodes": null,
+        "CurrencyName": "Nigerian Naira",
+        "CurrencyCode": "NGN"
+    },
+    {
+        "Name": "Niue",
+        "TwoLetterCode": "NU",
+        "ThreeLetterCode": "NIU",
+        "PhoneCode": "683",
+        "LeadingPhoneCodes": null,
+        "CurrencyName": "New Zealand Dollar",
+        "CurrencyCode": "NZD"
+    },
+    {
+        "Name": "Norfolk Island",
+        "TwoLetterCode": "NF",
+        "ThreeLetterCode": "NFK",
+        "PhoneCode": "672",
+        "LeadingPhoneCodes": null,
+        "CurrencyName": "Australian Dollar",
+        "CurrencyCode": "AUD"
+    },
+    {
+        "Name": "North Korea",
+        "TwoLetterCode": "KP",
+        "ThreeLetterCode": "PRK",
+        "PhoneCode": "850",
+        "LeadingPhoneCodes": null,
+        "CurrencyName": "null",
+        "CurrencyCode": "KPW"
+    },
+    {
+        "Name": "Northern Mariana Islands",
+        "TwoLetterCode": "MP",
+        "ThreeLetterCode": "MNP",
+        "PhoneCode": "1",
+        "LeadingPhoneCodes": [
+            "670"
+        ],
+        "CurrencyName": "US Dollar",
+        "CurrencyCode": "USD"
+    },
+    {
+        "Name": "Norway",
+        "TwoLetterCode": "NO",
+        "ThreeLetterCode": "NOR",
+        "PhoneCode": "47",
+        "LeadingPhoneCodes": null,
+        "CurrencyName": "Norwegian Krone",
+        "CurrencyCode": "NOK"
+    },
+    {
+        "Name": "Oman",
+        "TwoLetterCode": "OM",
+        "ThreeLetterCode": "OMN",
+        "PhoneCode": "968",
+        "LeadingPhoneCodes": null,
+        "CurrencyName": "Omani Rial",
+        "CurrencyCode": "OMR"
+    },
+    {
+        "Name": "Pakistan",
+        "TwoLetterCode": "PK",
+        "ThreeLetterCode": "PAK",
+        "PhoneCode": "92",
+        "LeadingPhoneCodes": null,
+        "CurrencyName": "Pakistani Rupee",
+        "CurrencyCode": "PKR"
+    },
+    {
+        "Name": "Palau",
+        "TwoLetterCode": "PW",
+        "ThreeLetterCode": "PLW",
+        "PhoneCode": "680",
+        "LeadingPhoneCodes": null,
+        "CurrencyName": "US Dollar",
+        "CurrencyCode": "USD"
+    },
+    {
+        "Name": "Palestine",
+        "TwoLetterCode": "PS",
+        "ThreeLetterCode": "PSE",
+        "PhoneCode": "970",
+        "LeadingPhoneCodes": null,
+        "CurrencyName": "Israeli New Sheqel",
+        "CurrencyCode": "ILS"
+    },
+    {
+        "Name": "Panama",
+        "TwoLetterCode": "PA",
+        "ThreeLetterCode": "PAN",
+        "PhoneCode": "507",
+        "LeadingPhoneCodes": null,
+        "CurrencyName": "Panamanian Balboa",
+        "CurrencyCode": "PAB"
+    },
+    {
+        "Name": "Papua New Guinea",
+        "TwoLetterCode": "PG",
+        "ThreeLetterCode": "PNG",
+        "PhoneCode": "675",
+        "LeadingPhoneCodes": null,
+        "CurrencyName": "null",
+        "CurrencyCode": "PGK"
+    },
+    {
+        "Name": "Paraguay",
+        "TwoLetterCode": "PY",
+        "ThreeLetterCode": "PRY",
+        "PhoneCode": "595",
+        "LeadingPhoneCodes": null,
+        "CurrencyName": "Paraguayan Guarani",
+        "CurrencyCode": "PYG"
+    },
+    {
+        "Name": "Peru",
+        "TwoLetterCode": "PE",
+        "ThreeLetterCode": "PER",
+        "PhoneCode": "51",
+        "LeadingPhoneCodes": null,
+        "CurrencyName": "Peruvian Nuevo Sol",
+        "CurrencyCode": "PEN"
+    },
+    {
+        "Name": "Philippines",
+        "TwoLetterCode": "PH",
+        "ThreeLetterCode": "PHL",
+        "PhoneCode": "63",
+        "LeadingPhoneCodes": null,
+        "CurrencyName": "Philippine Peso",
+        "CurrencyCode": "PHP"
+    },
+    {
+        "Name": "Pitcairn",
+        "TwoLetterCode": "PN",
+        "ThreeLetterCode": "PCN",
+        "PhoneCode": "872",
+        "LeadingPhoneCodes": null,
+        "CurrencyName": "New Zealand Dollar",
+        "CurrencyCode": "NZD"
+    },
+    {
+        "Name": "Poland",
+        "TwoLetterCode": "PL",
+        "ThreeLetterCode": "POL",
+        "PhoneCode": "48",
+        "LeadingPhoneCodes": null,
+        "CurrencyName": "Polish Zloty",
+        "CurrencyCode": "PLN"
+    },
+    {
+        "Name": "Portugal",
+        "TwoLetterCode": "PT",
+        "ThreeLetterCode": "PRT",
+        "PhoneCode": "351",
+        "LeadingPhoneCodes": null,
+        "CurrencyName": "Euro",
+        "CurrencyCode": "EUR"
+    },
+    {
+        "Name": "Puerto Rico",
+        "TwoLetterCode": "PR",
+        "ThreeLetterCode": "PRI",
+        "PhoneCode": "1",
+        "LeadingPhoneCodes": [
+            "787",
+            "939"
+        ],
+        "CurrencyName": "US Dollar",
+        "CurrencyCode": "USD"
+    },
+    {
+        "Name": "Qatar",
+        "TwoLetterCode": "QA",
+        "ThreeLetterCode": "QAT",
+        "PhoneCode": "974",
+        "LeadingPhoneCodes": null,
+        "CurrencyName": "Qatari Rial",
+        "CurrencyCode": "QAR"
+    },
+    {
+        "Name": "Reunion",
+        "TwoLetterCode": "RE",
+        "ThreeLetterCode": "REU",
+        "PhoneCode": "262",
+        "LeadingPhoneCodes": null,
+        "CurrencyName": "Euro",
+        "CurrencyCode": "EUR"
+    },
+    {
+        "Name": "Romania",
+        "TwoLetterCode": "RO",
+        "ThreeLetterCode": "ROU",
+        "PhoneCode": "40",
+        "LeadingPhoneCodes": null,
+        "CurrencyName": "Romanian Leu",
+        "CurrencyCode": "RON"
+    },
+    {
+        "Name": "Russia",
+        "TwoLetterCode": "RU",
+        "ThreeLetterCode": "RUS",
+        "PhoneCode": "7",
+        "LeadingPhoneCodes": null,
+        "CurrencyName": "Russian Ruble",
+        "CurrencyCode": "RUB"
+    },
+    {
+        "Name": "Rwanda",
+        "TwoLetterCode": "RW",
+        "ThreeLetterCode": "RWA",
+        "PhoneCode": "250",
+        "LeadingPhoneCodes": null,
+        "CurrencyName": "Rwandan Franc",
+        "CurrencyCode": "RWF"
+    },
+    {
+        "Name": "Saint Barthelemy",
+        "TwoLetterCode": "BL",
+        "ThreeLetterCode": "BLM",
+        "PhoneCode": "590",
+        "LeadingPhoneCodes": null,
+        "CurrencyName": "Euro",
+        "CurrencyCode": "EUR"
+    },
+    {
+        "Name": "Saint Helena",
+        "TwoLetterCode": "SH",
+        "ThreeLetterCode": "SHN",
+        "PhoneCode": "290",
+        "LeadingPhoneCodes": null,
+        "CurrencyName": "null",
+        "CurrencyCode": "SHP"
+    },
+    {
+        "Name": "Saint Kitts and Nevis",
+        "TwoLetterCode": "KN",
+        "ThreeLetterCode": "KNA",
+        "PhoneCode": "1",
+        "LeadingPhoneCodes": [
+            "869"
+        ],
+        "CurrencyName": "East Caribbean Dollar",
+        "CurrencyCode": "XCD"
+    },
+    {
+        "Name": "Saint Lucia",
+        "TwoLetterCode": "LC",
+        "ThreeLetterCode": "LCA",
+        "PhoneCode": "1",
+        "LeadingPhoneCodes": [
+            "758"
+        ],
+        "CurrencyName": "East Caribbean Dollar",
+        "CurrencyCode": "XCD"
+    },
+    {
+        "Name": "Saint Martin",
+        "TwoLetterCode": "MF",
+        "ThreeLetterCode": "MAF",
+        "PhoneCode": "590",
+        "LeadingPhoneCodes": null,
+        "CurrencyName": "Euro",
+        "CurrencyCode": "EUR"
+    },
+    {
+        "Name": "Saint Pierre and Miquelon",
+        "TwoLetterCode": "PM",
+        "ThreeLetterCode": "SPM",
+        "PhoneCode": "508",
+        "LeadingPhoneCodes": null,
+        "CurrencyName": "Euro",
+        "CurrencyCode": "EUR"
+    },
+    {
+        "Name": "Saint Vincent and the Grenadines",
+        "TwoLetterCode": "VC",
+        "ThreeLetterCode": "VCT",
+        "PhoneCode": "1",
+        "LeadingPhoneCodes": [
+            "784"
+        ],
+        "CurrencyName": "East Caribbean Dollar",
+        "CurrencyCode": "XCD"
+    },
+    {
+        "Name": "Samoa",
+        "TwoLetterCode": "WS",
+        "ThreeLetterCode": "WSM",
+        "PhoneCode": "685",
+        "LeadingPhoneCodes": null,
+        "CurrencyName": "null",
+        "CurrencyCode": "WST"
+    },
+    {
+        "Name": "San Marino",
+        "TwoLetterCode": "SM",
+        "ThreeLetterCode": "SMR",
+        "PhoneCode": "378",
+        "LeadingPhoneCodes": null,
+        "CurrencyName": "Euro",
+        "CurrencyCode": "EUR"
+    },
+    {
+        "Name": "Sao Tome and Principe",
+        "TwoLetterCode": "ST",
+        "ThreeLetterCode": "STP",
+        "PhoneCode": "239",
+        "LeadingPhoneCodes": null,
+        "CurrencyName": "Sao Tomean Dobra",
+        "CurrencyCode": "STD"
+    },
+    {
+        "Name": "Saudi Arabia",
+        "TwoLetterCode": "SA",
+        "ThreeLetterCode": "SAU",
+        "PhoneCode": "966",
+        "LeadingPhoneCodes": null,
+        "CurrencyName": "Saudi Riyal",
+        "CurrencyCode": "SAR"
+    },
+    {
+        "Name": "Senegal",
+        "TwoLetterCode": "SN",
+        "ThreeLetterCode": "SEN",
+        "PhoneCode": "221",
+        "LeadingPhoneCodes": null,
+        "CurrencyName": "CFA Franc BCEAO",
+        "CurrencyCode": "XOF"
+    },
+    {
+        "Name": "Serbia",
+        "TwoLetterCode": "RS",
+        "ThreeLetterCode": "SRB",
+        "PhoneCode": "381",
+        "LeadingPhoneCodes": null,
+        "CurrencyName": "Serbian Dinar",
+        "CurrencyCode": "RSD"
+    },
+    {
+        "Name": "Seychelles",
+        "TwoLetterCode": "SC",
+        "ThreeLetterCode": "SYC",
+        "PhoneCode": "248",
+        "LeadingPhoneCodes": null,
+        "CurrencyName": "null",
+        "CurrencyCode": "SCR"
+    },
+    {
+        "Name": "Sierra Leone",
+        "TwoLetterCode": "SL",
+        "ThreeLetterCode": "SLE",
+        "PhoneCode": "232",
+        "LeadingPhoneCodes": null,
+        "CurrencyName": "Sierra Leonean Leone",
+        "CurrencyCode": "SLL"
+    },
+    {
+        "Name": "Singapore",
+        "TwoLetterCode": "SG",
+        "ThreeLetterCode": "SGP",
+        "PhoneCode": "65",
+        "LeadingPhoneCodes": null,
+        "CurrencyName": "Singapore Dollar",
+        "CurrencyCode": "SGD"
+    },
+    {
+        "Name": "Slovakia",
+        "TwoLetterCode": "SK",
+        "ThreeLetterCode": "SVK",
+        "PhoneCode": "421",
+        "LeadingPhoneCodes": null,
+        "CurrencyName": "Euro",
+        "CurrencyCode": "EUR"
+    },
+    {
+        "Name": "Slovenia",
+        "TwoLetterCode": "SI",
+        "ThreeLetterCode": "SVN",
+        "PhoneCode": "386",
+        "LeadingPhoneCodes": null,
+        "CurrencyName": "Euro",
+        "CurrencyCode": "EUR"
+    },
+    {
+        "Name": "Solomon Islands",
+        "TwoLetterCode": "SB",
+        "ThreeLetterCode": "SLB",
+        "PhoneCode": "677",
+        "LeadingPhoneCodes": null,
+        "CurrencyName": "Solomon Islander Dollar",
+        "CurrencyCode": "SBD"
+    },
+    {
+        "Name": "Somalia",
+        "TwoLetterCode": "SO",
+        "ThreeLetterCode": "SOM",
+        "PhoneCode": "252",
+        "LeadingPhoneCodes": null,
+        "CurrencyName": "Somali Shilling",
+        "CurrencyCode": "SOS"
+    },
+    {
+        "Name": "South Africa",
+        "TwoLetterCode": "ZA",
+        "ThreeLetterCode": "ZAF",
+        "PhoneCode": "27",
+        "LeadingPhoneCodes": null,
+        "CurrencyName": "South African Rand",
+        "CurrencyCode": "ZAR"
+    },
+    {
+        "Name": "South Georgia",
+        "TwoLetterCode": "GS",
+        "ThreeLetterCode": "SGS",
+        "PhoneCode": "500",
+        "LeadingPhoneCodes": null,
+        "CurrencyName": "British Pound Sterling",
+        "CurrencyCode": "GBP"
+    },
+    {
+        "Name": "South Sudan",
+        "TwoLetterCode": "SS",
+        "ThreeLetterCode": "SSD",
+        "PhoneCode": "211",
+        "LeadingPhoneCodes": null,
+        "CurrencyName": "South Sudanese pound",
+        "CurrencyCode": "SSP"
+    },
+    {
+        "Name": "Spain",
+        "TwoLetterCode": "ES",
+        "ThreeLetterCode": "ESP",
+        "PhoneCode": "34",
+        "LeadingPhoneCodes": null,
+        "CurrencyName": "Euro",
+        "CurrencyCode": "EUR"
+    },
+    {
+        "Name": "Sri Lanka",
+        "TwoLetterCode": "LK",
+        "ThreeLetterCode": "LKA",
+        "PhoneCode": "94",
+        "LeadingPhoneCodes": null,
+        "CurrencyName": "Sri Lankan Rupee",
+        "CurrencyCode": "LKR"
+    },
+    {
+        "Name": "Sudan",
+        "TwoLetterCode": "SD",
+        "ThreeLetterCode": "SDN",
+        "PhoneCode": "249",
+        "LeadingPhoneCodes": null,
+        "CurrencyName": "Sudanese Pound",
+        "CurrencyCode": "SDG"
+    },
+    {
+        "Name": "Suriname",
+        "TwoLetterCode": "SR",
+        "ThreeLetterCode": "SUR",
+        "PhoneCode": "597",
+        "LeadingPhoneCodes": null,
+        "CurrencyName": "null",
+        "CurrencyCode": "SRD"
+    },
+    {
+        "Name": "Svalbard and Jan Mayen",
+        "TwoLetterCode": "SJ",
+        "ThreeLetterCode": "SJM",
+        "PhoneCode": "47",
+        "LeadingPhoneCodes": null,
+        "CurrencyName": "Norwegian Krone",
+        "CurrencyCode": "NOK"
+    },
+    {
+        "Name": "Swaziland",
+        "TwoLetterCode": "SZ",
+        "ThreeLetterCode": "SWZ",
+        "PhoneCode": "268",
+        "LeadingPhoneCodes": null,
+        "CurrencyName": "Swazi Lilangeni",
+        "CurrencyCode": "SZL"
+    },
+    {
+        "Name": "Sweden",
+        "TwoLetterCode": "SE",
+        "ThreeLetterCode": "SWE",
+        "PhoneCode": "46",
+        "LeadingPhoneCodes": null,
+        "CurrencyName": "Swedish Krona",
+        "CurrencyCode": "SEK"
+    },
+    {
+        "Name": "Switzerland",
+        "TwoLetterCode": "CH",
+        "ThreeLetterCode": "CHE",
+        "PhoneCode": "41",
+        "LeadingPhoneCodes": null,
+        "CurrencyName": "Swiss Franc",
+        "CurrencyCode": "CHF"
+    },
+    {
+        "Name": "Syrian Arab Republic",
+        "TwoLetterCode": "SY",
+        "ThreeLetterCode": "SYR",
+        "PhoneCode": "963",
+        "LeadingPhoneCodes": null,
+        "CurrencyName": "Syrian Pound",
+        "CurrencyCode": "SYP"
+    },
+    {
+        "Name": "Taiwan",
+        "TwoLetterCode": "TW",
+        "ThreeLetterCode": "TWN",
+        "PhoneCode": "886",
+        "LeadingPhoneCodes": null,
+        "CurrencyName": "New Taiwan Dollar",
+        "CurrencyCode": "TWD"
+    },
+    {
+        "Name": "Tajikistan",
+        "TwoLetterCode": "TJ",
+        "ThreeLetterCode": "TJK",
+        "PhoneCode": "992",
+        "LeadingPhoneCodes": null,
+        "CurrencyName": "Tajikistani Somoni",
+        "CurrencyCode": "TJS"
+    },
+    {
+        "Name": "Tanzania",
+        "TwoLetterCode": "TZ",
+        "ThreeLetterCode": "TZA",
+        "PhoneCode": "255",
+        "LeadingPhoneCodes": null,
+        "CurrencyName": "Tanzanian Shilling",
+        "CurrencyCode": "TZS"
+    },
+    {
+        "Name": "Thailand",
+        "TwoLetterCode": "TH",
+        "ThreeLetterCode": "THA",
+        "PhoneCode": "66",
+        "LeadingPhoneCodes": null,
+        "CurrencyName": "Thai Baht",
+        "CurrencyCode": "THB"
+    },
+    {
+        "Name": "Timor-Leste",
+        "TwoLetterCode": "TL",
+        "ThreeLetterCode": "TLS",
+        "PhoneCode": "670",
+        "LeadingPhoneCodes": null,
+        "CurrencyName": "US Dollar",
+        "CurrencyCode": "USD"
+    },
+    {
+        "Name": "Togo",
+        "TwoLetterCode": "TG",
+        "ThreeLetterCode": "TGO",
+        "PhoneCode": "228",
+        "LeadingPhoneCodes": null,
+        "CurrencyName": "CFA Franc BCEAO",
+        "CurrencyCode": "XOF"
+    },
+    {
+        "Name": "Tokelau",
+        "TwoLetterCode": "TK",
+        "ThreeLetterCode": "TKL",
+        "PhoneCode": "690",
+        "LeadingPhoneCodes": null,
+        "CurrencyName": "New Zealand Dollar",
+        "CurrencyCode": "NZD"
+    },
+    {
+        "Name": "Tonga",
+        "TwoLetterCode": "TO",
+        "ThreeLetterCode": "TON",
+        "PhoneCode": "676",
+        "LeadingPhoneCodes": null,
+        "CurrencyName": "Tongan Pa\u02BBanga",
+        "CurrencyCode": "TOP"
+    },
+    {
+        "Name": "Trinidad and Tobago",
+        "TwoLetterCode": "TT",
+        "ThreeLetterCode": "TTO",
+        "PhoneCode": "1",
+        "LeadingPhoneCodes": [
+            "868"
+        ],
+        "CurrencyName": "Trinidad and Tobago Dollar",
+        "CurrencyCode": "TTD"
+    },
+    {
+        "Name": "Tunisia",
+        "TwoLetterCode": "TN",
+        "ThreeLetterCode": "TUN",
+        "PhoneCode": "216",
+        "LeadingPhoneCodes": null,
+        "CurrencyName": "Tunisian Dinar",
+        "CurrencyCode": "TND"
+    },
+    {
+        "Name": "Turkey",
+        "TwoLetterCode": "TR",
+        "ThreeLetterCode": "TUR",
+        "PhoneCode": "90",
+        "LeadingPhoneCodes": null,
+        "CurrencyName": "Turkish Lira",
+        "CurrencyCode": "TRY"
+    },
+    {
+        "Name": "Turkmenistan",
+        "TwoLetterCode": "TM",
+        "ThreeLetterCode": "TKM",
+        "PhoneCode": "993",
+        "LeadingPhoneCodes": null,
+        "CurrencyName": "null",
+        "CurrencyCode": "TMT"
+    },
+    {
+        "Name": "Turks and Caicos Islands",
+        "TwoLetterCode": "TC",
+        "ThreeLetterCode": "TCA",
+        "PhoneCode": "1",
+        "LeadingPhoneCodes": [
+            "649"
+        ],
+        "CurrencyName": "US Dollar",
+        "CurrencyCode": "USD"
+    },
+    {
+        "Name": "Tuvalu",
+        "TwoLetterCode": "TV",
+        "ThreeLetterCode": "TUV",
+        "PhoneCode": "688",
+        "LeadingPhoneCodes": null,
+        "CurrencyName": "Australian Dollar",
+        "CurrencyCode": "AUD"
+    },
+    {
+        "Name": "Uganda",
+        "TwoLetterCode": "UG",
+        "ThreeLetterCode": "UGA",
+        "PhoneCode": "256",
+        "LeadingPhoneCodes": null,
+        "CurrencyName": "Ugandan Shilling",
+        "CurrencyCode": "UGX"
+    },
+    {
+        "Name": "Ukraine",
+        "TwoLetterCode": "UA",
+        "ThreeLetterCode": "UKR",
+        "PhoneCode": "380",
+        "LeadingPhoneCodes": null,
+        "CurrencyName": "Ukrainian Hryvnia",
+        "CurrencyCode": "UAH"
+    },
+    {
+        "Name": "United Arab Emirates",
+        "TwoLetterCode": "AE",
+        "ThreeLetterCode": "ARE",
+        "PhoneCode": "971",
+        "LeadingPhoneCodes": null,
+        "CurrencyName": "United Arab Emirates Dirham",
+        "CurrencyCode": "AED"
+    },
+    {
+        "Name": "United Kingdom",
+        "TwoLetterCode": "GB",
+        "ThreeLetterCode": "GBR",
+        "PhoneCode": "44",
+        "LeadingPhoneCodes": null,
+        "CurrencyName": "British Pound Sterling",
+        "CurrencyCode": "GBP"
+    },
+    {
+        "Name": "United States",
+        "TwoLetterCode": "US",
+        "ThreeLetterCode": "USA",
+        "PhoneCode": "1",
+        "LeadingPhoneCodes": null,
+        "CurrencyName": "US Dollar",
+        "CurrencyCode": "USD"
+    },
+    {
+        "Name": "Uruguay",
+        "TwoLetterCode": "UY",
+        "ThreeLetterCode": "URY",
+        "PhoneCode": "598",
+        "LeadingPhoneCodes": null,
+        "CurrencyName": "Uruguayan Peso",
+        "CurrencyCode": "UYU"
+    },
+    {
+        "Name": "Uzbekistan",
+        "TwoLetterCode": "UZ",
+        "ThreeLetterCode": "UZB",
+        "PhoneCode": "998",
+        "LeadingPhoneCodes": null,
+        "CurrencyName": "Uzbekistan Som",
+        "CurrencyCode": "UZS"
+    },
+    {
+        "Name": "Vanuatu",
+        "TwoLetterCode": "VU",
+        "ThreeLetterCode": "VUT",
+        "PhoneCode": "678",
+        "LeadingPhoneCodes": null,
+        "CurrencyName": "Ni-Vanuatu Vatu",
+        "CurrencyCode": "VUV"
+    },
+    {
+        "Name": "Venezuela",
+        "TwoLetterCode": "VE",
+        "ThreeLetterCode": "VEN",
+        "PhoneCode": "58",
+        "LeadingPhoneCodes": null,
+        "CurrencyName": "Venezuelan Bol\u00EDvar",
+        "CurrencyCode": "VEF"
+    },
+    {
+        "Name": "Vietnam",
+        "TwoLetterCode": "VN",
+        "ThreeLetterCode": "VNM",
+        "PhoneCode": "84",
+        "LeadingPhoneCodes": null,
+        "CurrencyName": "Vietnamese Dong",
+        "CurrencyCode": "VND"
+    },
+    {
+        "Name": "Virgin Islands, British",
+        "TwoLetterCode": "VG",
+        "ThreeLetterCode": "VGB",
+        "PhoneCode": "1",
+        "LeadingPhoneCodes": [
+            "284"
+        ],
+        "CurrencyName": "US Dollar",
+        "CurrencyCode": "USD"
+    },
+    {
+        "Name": "Virgin Islands, U.S.",
+        "TwoLetterCode": "VI",
+        "ThreeLetterCode": "VIR",
+        "PhoneCode": "1",
+        "LeadingPhoneCodes": [
+            "340"
+        ],
+        "CurrencyName": "US Dollar",
+        "CurrencyCode": "USD"
+    },
+    {
+        "Name": "Wallis and Futuna",
+        "TwoLetterCode": "WF",
+        "ThreeLetterCode": "WLF",
+        "PhoneCode": "681",
+        "LeadingPhoneCodes": null,
+        "CurrencyName": "CFP Franc",
+        "CurrencyCode": "XPF"
+    },
+    {
+        "Name": "Yemen",
+        "TwoLetterCode": "YE",
+        "ThreeLetterCode": "YEM",
+        "PhoneCode": "967",
+        "LeadingPhoneCodes": null,
+        "CurrencyName": "Yemeni Rial",
+        "CurrencyCode": "YER"
+    },
+    {
+        "Name": "Zambia",
+        "TwoLetterCode": "ZM",
+        "ThreeLetterCode": "ZMB",
+        "PhoneCode": "260",
+        "LeadingPhoneCodes": null,
+        "CurrencyName": "null",
+        "CurrencyCode": "ZMW"
+    },
+    {
+        "Name": "Zimbabwe",
+        "TwoLetterCode": "ZW",
+        "ThreeLetterCode": "ZWE",
+        "PhoneCode": "263",
+        "LeadingPhoneCodes": null,
+        "CurrencyName": "null",
+        "CurrencyCode": "ZWL"
+    }
+]

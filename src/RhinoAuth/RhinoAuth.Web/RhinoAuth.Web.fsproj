@@ -1,21 +1,85 @@
-<Project Sdk="Microsoft.NET.Sdk.Web">
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
 
-  <PropertyGroup>
-    <TargetFramework>net9.0</TargetFramework>
-    <DockerDefaultTargetOS>Linux</DockerDefaultTargetOS>
-    <DockerfileContext>..\..\..</DockerfileContext>
-  </PropertyGroup>
+	<PropertyGroup>
+		<TargetFramework>net9.0</TargetFramework>
+		<DockerDefaultTargetOS>Linux</DockerDefaultTargetOS>
+		<DockerfileContext>..\..\..</DockerfileContext>
+	</PropertyGroup>
 
-  <ItemGroup>
-    <Compile Include="Program.fs" />
-  </ItemGroup>
+	<ItemGroup>
+		<Compile Include="Dependencies\IpInfo.fs" />
+		<Compile Include="Dependencies\Captcha.fs" />
+		<Compile Include="Dependencies\EmailSender.fs" />
+		<Compile Include="Dependencies\SmsSender.fs" />
+		<Compile Include="Dependencies\FileManager.fs" />
+		<Compile Include="Dependencies\DistributedCache.fs" />
+		<Compile Include="Services&amp;Utilities\Extensions.fs" />
+		<Compile Include="Services&amp;Utilities\Settings.fs" />
+		<Compile Include="Services&amp;Utilities\FileValidator.fs" />
+		<Compile Include="Services&amp;Utilities\PhoneNumberValidator.fs" />
+		<Compile Include="Services&amp;Utilities\PasswordHasher.fs" />
+		<Compile Include="Services&amp;Utilities\KeyGenerator.fs" />
+		<Compile Include="Services&amp;Utilities\TokenGenerator.fs" />
+		<Compile Include="Services&amp;Utilities\CountryCache.fs" />
+		<Compile Include="Services&amp;Utilities\BackchannelClientCaller.fs" />
+		<Compile Include="Models\FormModels.fs" />
+		<Compile Include="Models\FormValidations.fs" />
+		<Compile Include="Models\ViewModels.fs" />
+		<Compile Include="Models\OAuthModels.fs" />
+		<Compile Include="View\ViewSharedData.fs" />
+		<Compile Include="View\Bootstrap\Components.fs" />
+		<Compile Include="View\Bootstrap\Layouts.fs" />
+		<Compile Include="View\Pages\StaticErrors.fs" />
+		<Compile Include="View\Pages\Home.fs" />
+		<Compile Include="View\Pages\Logout.fs" />
+		<Compile Include="View\Pages\Signup.fs" />
+		<Compile Include="View\Pages\SignupVerifications.fs" />
+		<Compile Include="View\Pages\Login.fs" />
+		<Compile Include="View\Pages\PasswordRecovery.fs" />
+		<Compile Include="View\Pages\Profile.fs" />
+		<Compile Include="View\Pages\ProfileForms.fs" />
+		<Compile Include="View\Pages\Authorize.fs" />
+		<Compile Include="Repository\Repository.fs" />
+		<Compile Include="Repository\EFCore.fs" />
+		<Compile Include="Workflows\WorkflowBuilder.fs" />
+		<Compile Include="Workflows\SharedValidations.fs" />
+		<Compile Include="Workflows\SignupWorkflow.fs" />
+		<Compile Include="Workflows\SignupVerificationWorkflows.fs" />
+		<Compile Include="Workflows\LoginWorkflow.fs" />
+		<Compile Include="Workflows\PasswordRecoveryWorkflows.fs" />
+		<Compile Include="Workflows\ProfileWorkflows.fs" />
+		<Compile Include="Workflows\AuthorizeWorkflow.fs" />
+		<Compile Include="Workflows\ConsentWorkflows.fs" />
+		<Compile Include="Workflows\AuthorizationCodeWorkflow.fs" />
+		<Compile Include="Workflows\ClientCredentialsWorkflow.fs" />
+		<Compile Include="Workflows\RefreshTokenWorkflow.fs" />
+		<Compile Include="Workflows\TokenWorkflow.fs" />
+		<Compile Include="Workflows\LogoutWorkflow.fs" />
+		<Compile Include="Configurations.fs" />
+		<Compile Include="Routing.fs" />
+		<Compile Include="Program.fs" />
+	</ItemGroup>
 
-  <ItemGroup>
-    <None Include="Dockerfile" />
-  </ItemGroup>
+	<ItemGroup>
+		<None Include="Dockerfile" />
+	</ItemGroup>
 
-  <ItemGroup>
-    <PackageReference Include="Microsoft.VisualStudio.Azure.Containers.Tools.Targets" Version="1.22.1-Preview.1" />
-  </ItemGroup>
+	<ItemGroup>
+		<PackageReference Include="FileTypeInterrogator" Version="2.0.0" />
+		<PackageReference Include="libphonenumber-csharp" Version="9.0.7" />
+		<PackageReference Include="FsToolkit.ErrorHandling" Version="5.0.0" />
+		<PackageReference Include="Giraffe" Version="8.0.0-alpha-003" />
+		<PackageReference Include="Microsoft.VisualStudio.Azure.Containers.Tools.Targets" Version="1.22.1-Preview.1" />
+		<PackageReference Include="System.IdentityModel.Tokens.Jwt" Version="8.12.0" />
+		<PackageReference Include="StackExchange.Redis" Version="2.8.41" />
+		<PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="9.0.6">
+			<PrivateAssets>all</PrivateAssets>
+			<IncludeAssets>runtime; build; native; contentfiles; analyzers</IncludeAssets>
+		</PackageReference>
+	</ItemGroup>
+
+	<ItemGroup>
+		<ProjectReference Include="..\RhinoAuth.Database\RhinoAuth.Database.csproj" />
+	</ItemGroup>
 
 </Project>

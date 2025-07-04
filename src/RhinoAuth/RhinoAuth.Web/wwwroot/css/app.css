@@ -1,0 +1,66 @@
+body {
+    font-family: "Jost", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+}
+
+*:focus-visible {
+    outline: none;
+}
+
+.btn-icon {
+    width: 32px;
+    height: 32px;
+    padding: 4px;
+    border: none;
+    border-radius: 50%;
+}
+
+.glass-4 {
+    background-color: transparent;
+    backdrop-filter: blur(4px);
+}
+.glass-8 {
+    background-color: transparent;
+    backdrop-filter: blur(8px);
+}
+.glass-12 {
+    background-color: transparent;
+    backdrop-filter: blur(12px);
+}
+.glass-16 {
+    background-color: transparent;
+    backdrop-filter: blur(16px);
+}
+
+.bg-pattern {
+    position: absolute;
+    width: 100%;
+    min-height: 100vh;
+    height: 100%;
+    z-index: 0;
+    background-size: 125px;
+
+    &.light {
+        background-image: url('/img/bg/bg.png');
+    }
+
+    &.dark {
+        background-image: url('/img/bg/bg.png');
+    }
+}
+
+.animate-bg {
+    animation: bg-slide 20s linear infinite;
+}
+
+@keyframes bg-slide {
+    0% {
+        background-position: 0 0;
+    }
+
+    100% {
+        background-position: -125px 125px;
+    }
+}

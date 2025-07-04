@@ -1,4 +1,4 @@
-﻿<h1>
+﻿<h1 style="display: flex;gap: 8px;align-items: center;">
   <img src="./logo.png" alt="Logo" width="60" style="vertical-align: middle; margin-right: 8px;">
   RhinoAuth
 </h1>

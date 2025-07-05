@@ -96,7 +96,7 @@ type TokenRequest = {
 type TokenErrorResponse = {
     error: string
 
-    error_descriptioon: string
+    error_description: string
 }
 
 

@@ -7,7 +7,7 @@ public class ApiResource : BaseEntityString
 	public bool IsActive { get; set; }
 	public List<string> Scopes { get; set; } = [];
 
-	// This not being used, but the idea was:
+	// This is not being used, but the idea was:
 	// For better performance, a shared secret can be agreed with the API resource
 	// if set, symmetric signing will be used using this key
 	public string? SymmetricJwtSecret { get; set; }

@@ -22,7 +22,7 @@ let notFound viewData =
 
         ui_hr
     ]
-    |> mainLayout viewData "Home Page"
+    |> mainLayout viewData "Not Found"
 
 
 let internalServerError viewData =
@@ -41,7 +41,7 @@ let internalServerError viewData =
 
         ui_hr
     ]
-    |> mainLayout viewData "Home Page"
+    |> mainLayout viewData "Server Error"
 
 
 let serviceUnavailable viewData =
@@ -60,4 +60,4 @@ let serviceUnavailable viewData =
 
         ui_hr
     ]
-    |> mainLayout viewData "Home Page"
+    |> mainLayout viewData "Service Unavailable"

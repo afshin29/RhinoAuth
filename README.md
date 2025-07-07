@@ -4,7 +4,6 @@
 <h1 align="center">
   RhinoAuth
 </h1>
-<hr/>
 
 RhinoAuth is a simple cloud native OAuth 2.1 and OpenID Connect server (and a work in progress). Please note that this is not a library, but a final product. Since different projects need different identity management features, this project cannot satisfy everyone. But, at least I hope it can be used as a starting template.
 

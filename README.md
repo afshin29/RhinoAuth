@@ -1,5 +1,7 @@
-﻿<h1 style="display: flex;gap: 8px;align-items: center;">
-  <img src="./logo.png" alt="Logo" width="60" style="vertical-align: middle; margin-right: 8px;">
+<p align="center">
+  <img src="./logo.png" alt="Logo" width="90">
+</p>
+<h1 align="center">
   RhinoAuth
 </h1>
 <hr/>

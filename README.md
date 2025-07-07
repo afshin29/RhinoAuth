@@ -67,7 +67,7 @@ Currently the following OpenID Connect Core parameters are not recognized:
 Out of all of these parameters, the `prompt` is really useful, because clients can check users' auth state and they can make users reenter their password for sensitive operations. It's unfortunate that the OIDC spec merged this concept with the authorization flow, because it makes the flow even more complicated than it already is. In my opinion it should have been a separate endpoint and flow.
 
 According to OAuth, generating a refresh token is optional and up to the server. According to OpenID Connect, generating a refresh token depends on the `offline_access` scope and if persent, a consent page must be shown.
-Currently a refresh token will always be generated and `offline_acess` will not be processed, which is acceptable for 1st-party clients.
+Currently a refresh token will always be generated and `offline_access` will not be processed, which is acceptable for 1st-party clients.
 
 
 ## Missing features (apart from incomplete ones)
